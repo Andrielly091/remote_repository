@@ -1,0 +1,6 @@
+teste.log
+lixo/
+cache/
+log/
+*.log
+).pyc
